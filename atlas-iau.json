@@ -1,0 +1,1706 @@
+{
+  "metadata": {
+    "title": "IAU constellation reference data for Star Atlas",
+    "retrievedDate": "2026-10-15",
+    "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+    "archiveUrl": "https://iauarchive.eso.org/public/themes/constellations/",
+    "pronunciationReferenceUrl": "https://skyandtelescope.org/astronomy-resources/constellation-names-and-abbreviations/",
+    "chartEpoch": "J2000",
+    "chartAttribution": "IAU / Sky & Telescope. Charts by Roger Sinnott and Rick Fienberg; constellation line patterns by Alan MacRobert.",
+    "chartLicense": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+    "chartLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": [
+      "Constellation names, abbreviations, English meanings, genitives and chart links were extracted from the current IAU table.",
+      "Chart and boundary URLs are actual links in the IAU table; Serpens has separate head and tail charts.",
+      "Pronunciations are guides, not a single mandatory pronunciation. Stray source footnote digits and line-break spaces were removed.",
+      "The malformed IAU Cygnus pronunciation was corrected from the Sky & Telescope pronunciation reference linked by the IAU.",
+      "The English label for Coma Berenices omits the extraneous article before Berenice’s Hair in the source table.",
+      "Corona Australis follows the current IAU table; Corona Austrina is included as a search alias.",
+      "The chart license applies to the linked chart images. Boundary files use J2000 right ascension and declination, as described by the IAU."
+    ]
+  },
+  "constellations": {
+    "And": {
+      "name": "Andromeda",
+      "abbreviation": "And",
+      "englishMeaning": "The Princess",
+      "genitive": "Andromedae",
+      "pronunciation": "an-DRAH-mih-duh",
+      "genitivePronunciation": "an-DRAH-mih-dee",
+      "charts": [
+        {
+          "label": "Andromeda",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/AND.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/AND.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/and.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Ant": {
+      "name": "Antlia",
+      "abbreviation": "Ant",
+      "englishMeaning": "The Air Pump",
+      "genitive": "Antliae",
+      "pronunciation": "ANT-lee-uh",
+      "genitivePronunciation": "ANT-lee-ee",
+      "charts": [
+        {
+          "label": "Antlia",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/ANT.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/ANT.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/ant.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Aps": {
+      "name": "Apus",
+      "abbreviation": "Aps",
+      "englishMeaning": "The Bird of Paradise",
+      "genitive": "Apodis",
+      "pronunciation": "APE-us, APP-us",
+      "genitivePronunciation": "APP-oh-diss",
+      "charts": [
+        {
+          "label": "Apus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/APS.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/APS.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/aps.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Aqr": {
+      "name": "Aquarius",
+      "abbreviation": "Aqr",
+      "englishMeaning": "The Water Bearer",
+      "genitive": "Aquarii",
+      "pronunciation": "uh-QUAIR-ee-us",
+      "genitivePronunciation": "uh-QUAIR-ee-eye",
+      "charts": [
+        {
+          "label": "Aquarius",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/AQR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/AQR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/aqr.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Aql": {
+      "name": "Aquila",
+      "abbreviation": "Aql",
+      "englishMeaning": "The Eagle",
+      "genitive": "Aquilae",
+      "pronunciation": "ACK-will-uh, uh-QUILL-uh",
+      "genitivePronunciation": "ACK-will-ee, uh-QUILL-ee",
+      "charts": [
+        {
+          "label": "Aquila",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/AQL.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/AQL.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/aql.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Ara": {
+      "name": "Ara",
+      "abbreviation": "Ara",
+      "englishMeaning": "The Altar",
+      "genitive": "Arae",
+      "pronunciation": "AIR-uh, AR-uh",
+      "genitivePronunciation": "AIR-ee, AR-ee",
+      "charts": [
+        {
+          "label": "Ara",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/ARA.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/ARA.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/ara.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Ari": {
+      "name": "Aries",
+      "abbreviation": "Ari",
+      "englishMeaning": "The Ram",
+      "genitive": "Arietis",
+      "pronunciation": "AIR-eez, AIR-ee-yeez",
+      "genitivePronunciation": "uh-RYE-ih-tiss",
+      "charts": [
+        {
+          "label": "Aries",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/ARI.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/ARI.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/ari.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Aur": {
+      "name": "Auriga",
+      "abbreviation": "Aur",
+      "englishMeaning": "The Charioteer",
+      "genitive": "Aurigae",
+      "pronunciation": "aw-RYE-guh",
+      "genitivePronunciation": "aw-RYE-ghee",
+      "charts": [
+        {
+          "label": "Auriga",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/AUR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/AUR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/aur.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Boo": {
+      "name": "Boötes",
+      "abbreviation": "Boo",
+      "englishMeaning": "The Herdsman",
+      "genitive": "Boötis",
+      "pronunciation": "bo-OH-teez",
+      "genitivePronunciation": "bo-OH-tiss",
+      "charts": [
+        {
+          "label": "Boötes",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/BOO.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/BOO.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/boo.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cae": {
+      "name": "Caelum",
+      "abbreviation": "Cae",
+      "englishMeaning": "The Engraving Tool",
+      "genitive": "Caeli",
+      "pronunciation": "SEE-lum",
+      "genitivePronunciation": "SEE-lye",
+      "charts": [
+        {
+          "label": "Caelum",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CAE.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CAE.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cae.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cam": {
+      "name": "Camelopardalis",
+      "abbreviation": "Cam",
+      "englishMeaning": "The Giraffe",
+      "genitive": "Camelopardalis",
+      "pronunciation": "cuh-MEL-oh-PAR-duh-liss",
+      "genitivePronunciation": "cuh-MEL-oh-PAR-duh-liss",
+      "charts": [
+        {
+          "label": "Camelopardalis",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CAM.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CAM.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cam.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cnc": {
+      "name": "Cancer",
+      "abbreviation": "Cnc",
+      "englishMeaning": "The Crab",
+      "genitive": "Cancri",
+      "pronunciation": "CAN-ser",
+      "genitivePronunciation": "CANG-cry",
+      "charts": [
+        {
+          "label": "Cancer",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CNC.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CNC.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cnc.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "CVn": {
+      "name": "Canes Venatici",
+      "abbreviation": "CVn",
+      "englishMeaning": "The Hunting Dogs",
+      "genitive": "Canum Venaticorum",
+      "pronunciation": "CANE-eez (CAN-eez) ve-NAT-iss-eye",
+      "genitivePronunciation": "CANE-um (CAN-um) ve-nat-ih-COR-um",
+      "charts": [
+        {
+          "label": "Canes Venatici",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CVN.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CVN.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cvn.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "CMa": {
+      "name": "Canis Major",
+      "abbreviation": "CMa",
+      "englishMeaning": "The Great Dog",
+      "genitive": "Canis Majoris",
+      "pronunciation": "CANE-iss (CAN-iss) MAY-jer",
+      "genitivePronunciation": "CANE-iss (CAN-iss) muh-JOR-iss",
+      "charts": [
+        {
+          "label": "Canis Major",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CMA.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CMA.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cma.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "CMi": {
+      "name": "Canis Minor",
+      "abbreviation": "CMi",
+      "englishMeaning": "The Lesser Dog",
+      "genitive": "Canis Minoris",
+      "pronunciation": "CANE-iss (CAN-iss) MY-ner",
+      "genitivePronunciation": "CANE-iss (CAN-iss) mih-NOR-iss",
+      "charts": [
+        {
+          "label": "Canis Minor",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CMI.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CMI.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cmi.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cap": {
+      "name": "Capricornus",
+      "abbreviation": "Cap",
+      "englishMeaning": "The Sea Goat",
+      "genitive": "Capricorni",
+      "pronunciation": "CAP-rih-CORN-us",
+      "genitivePronunciation": "CAP-rih-CORN-eye",
+      "charts": [
+        {
+          "label": "Capricornus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CAP.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CAP.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cap.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Car": {
+      "name": "Carina",
+      "abbreviation": "Car",
+      "englishMeaning": "The Ship's Keel",
+      "genitive": "Carinae",
+      "pronunciation": "cuh-RYE-nuh, cuh-REE-nuh",
+      "genitivePronunciation": "cuh-RYE-nee, cuh-REE-nee",
+      "charts": [
+        {
+          "label": "Carina",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CAR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CAR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/car.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cas": {
+      "name": "Cassiopeia",
+      "abbreviation": "Cas",
+      "englishMeaning": "The Queen",
+      "genitive": "Cassiopeiae",
+      "pronunciation": "CASS-ee-uh-PEE-uh",
+      "genitivePronunciation": "CASS-ee-uh-PEE-ye",
+      "charts": [
+        {
+          "label": "Cassiopeia",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CAS.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CAS.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cas.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cen": {
+      "name": "Centaurus",
+      "abbreviation": "Cen",
+      "englishMeaning": "The Centaur",
+      "genitive": "Centauri",
+      "pronunciation": "sen-TOR-us",
+      "genitivePronunciation": "sen-TOR-eye",
+      "charts": [
+        {
+          "label": "Centaurus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CEN.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CEN.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cen.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cep": {
+      "name": "Cepheus",
+      "abbreviation": "Cep",
+      "englishMeaning": "The King",
+      "genitive": "Cephei",
+      "pronunciation": "SEE-fyoos, SEE-fee-us, SEF-ee-us",
+      "genitivePronunciation": "SEE-fee-eye, SEF-ee-eye",
+      "charts": [
+        {
+          "label": "Cepheus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CEP.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CEP.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cep.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cet": {
+      "name": "Cetus",
+      "abbreviation": "Cet",
+      "englishMeaning": "The Sea Monster",
+      "genitive": "Ceti",
+      "pronunciation": "SEE-tus",
+      "genitivePronunciation": "SEE-tie",
+      "charts": [
+        {
+          "label": "Cetus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CET.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CET.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cet.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cha": {
+      "name": "Chamaeleon",
+      "abbreviation": "Cha",
+      "englishMeaning": "The Chameleon",
+      "genitive": "Chamaeleontis",
+      "pronunciation": "cuh-MEAL-yun, cuh-MEAL-ee-un",
+      "genitivePronunciation": "cuh-MEAL-ee-ON-tiss",
+      "charts": [
+        {
+          "label": "Chamaeleon",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CHA.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CHA.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cha.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cir": {
+      "name": "Circinus",
+      "abbreviation": "Cir",
+      "englishMeaning": "The Drawing Compass",
+      "genitive": "Circini",
+      "pronunciation": "SER-sin-us",
+      "genitivePronunciation": "SER-sin-eye",
+      "charts": [
+        {
+          "label": "Circinus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CIR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CIR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cir.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Col": {
+      "name": "Columba",
+      "abbreviation": "Col",
+      "englishMeaning": "The Dove",
+      "genitive": "Columbae",
+      "pronunciation": "cuh-LUM-buh",
+      "genitivePronunciation": "cuh-LUM-bee",
+      "charts": [
+        {
+          "label": "Columba",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/COL.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/COL.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/col.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Com": {
+      "name": "Coma Berenices",
+      "abbreviation": "Com",
+      "englishMeaning": "Berenice's Hair",
+      "genitive": "Comae Berenices",
+      "pronunciation": "COE-muh BER-uh-NICE-eez",
+      "genitivePronunciation": "COE-mee BER-uh-NICE-eez",
+      "charts": [
+        {
+          "label": "Coma Berenices",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/COM.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/COM.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/com.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "CrA": {
+      "name": "Corona Australis",
+      "abbreviation": "CrA",
+      "englishMeaning": "The Southern Crown",
+      "genitive": "Coronae Australis",
+      "pronunciation": "cuh-ROE-nuh aw-STRAL-iss",
+      "genitivePronunciation": "cuh-ROE-nee aw-STRAL-iss",
+      "charts": [
+        {
+          "label": "Corona Australis",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CRA.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CRA.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cra.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+      "aliases": [
+        "Corona Austrina"
+      ]
+    },
+    "CrB": {
+      "name": "Corona Borealis",
+      "abbreviation": "CrB",
+      "englishMeaning": "The Northern Crown",
+      "genitive": "Coronae Borealis",
+      "pronunciation": "cuh-ROE-nuh bor-ee-AL-iss",
+      "genitivePronunciation": "cuh-ROE-nee bor-ee-AL-iss",
+      "charts": [
+        {
+          "label": "Corona Borealis",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CRB.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CRB.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/crb.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Crv": {
+      "name": "Corvus",
+      "abbreviation": "Crv",
+      "englishMeaning": "The Crow",
+      "genitive": "Corvi",
+      "pronunciation": "COR-vus",
+      "genitivePronunciation": "COR-vye",
+      "charts": [
+        {
+          "label": "Corvus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CRV.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CRV.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/crv.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Crt": {
+      "name": "Crater",
+      "abbreviation": "Crt",
+      "englishMeaning": "The Cup",
+      "genitive": "Crateris",
+      "pronunciation": "CRAY-ter",
+      "genitivePronunciation": "cruh-TEE-riss",
+      "charts": [
+        {
+          "label": "Crater",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CRT.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CRT.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/crt.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cru": {
+      "name": "Crux",
+      "abbreviation": "Cru",
+      "englishMeaning": "The Southern Cross",
+      "genitive": "Crucis",
+      "pronunciation": "CRUCKS, CROOKS",
+      "genitivePronunciation": "CROO-siss",
+      "charts": [
+        {
+          "label": "Crux",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CRU.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CRU.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cru.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Cyg": {
+      "name": "Cygnus",
+      "abbreviation": "Cyg",
+      "englishMeaning": "The Swan",
+      "genitive": "Cygni",
+      "pronunciation": "SIG-nus",
+      "genitivePronunciation": "SIG-nye",
+      "charts": [
+        {
+          "label": "Cygnus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/CYG.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/CYG.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/cyg.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx",
+      "pronunciationSourceUrl": "https://skyandtelescope.org/astronomy-resources/constellation-names-and-abbreviations/"
+    },
+    "Del": {
+      "name": "Delphinus",
+      "abbreviation": "Del",
+      "englishMeaning": "The Dolphin",
+      "genitive": "Delphini",
+      "pronunciation": "del-FINE-us, del-FIN-us",
+      "genitivePronunciation": "del-FINE-eye, del-FIN-eye",
+      "charts": [
+        {
+          "label": "Delphinus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/DEL.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/DEL.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/del.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Dor": {
+      "name": "Dorado",
+      "abbreviation": "Dor",
+      "englishMeaning": "The Dolphinfish",
+      "genitive": "Doradus",
+      "pronunciation": "duh-RAH-do",
+      "genitivePronunciation": "duh-RAH-dus",
+      "charts": [
+        {
+          "label": "Dorado",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/DOR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/DOR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/dor.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Dra": {
+      "name": "Draco",
+      "abbreviation": "Dra",
+      "englishMeaning": "The Dragon",
+      "genitive": "Draconis",
+      "pronunciation": "DRAY-co",
+      "genitivePronunciation": "druh-CONE-iss",
+      "charts": [
+        {
+          "label": "Draco",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/DRA.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/DRA.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/dra.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Equ": {
+      "name": "Equuleus",
+      "abbreviation": "Equ",
+      "englishMeaning": "The Little Horse",
+      "genitive": "Equulei",
+      "pronunciation": "eh-QUOO-lee-us",
+      "genitivePronunciation": "eh-QUOO-lee-eye",
+      "charts": [
+        {
+          "label": "Equuleus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/EQU.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/EQU.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/equ.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Eri": {
+      "name": "Eridanus",
+      "abbreviation": "Eri",
+      "englishMeaning": "The River",
+      "genitive": "Eridani",
+      "pronunciation": "ih-RID-un-us",
+      "genitivePronunciation": "ih-RID-un-eye",
+      "charts": [
+        {
+          "label": "Eridanus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/ERI.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/ERI.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/eri.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "For": {
+      "name": "Fornax",
+      "abbreviation": "For",
+      "englishMeaning": "The Furnace",
+      "genitive": "Fornacis",
+      "pronunciation": "FOR-naks",
+      "genitivePronunciation": "for-NAY-siss",
+      "charts": [
+        {
+          "label": "Fornax",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/FOR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/FOR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/for.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Gem": {
+      "name": "Gemini",
+      "abbreviation": "Gem",
+      "englishMeaning": "The Twins",
+      "genitive": "Geminorum",
+      "pronunciation": "JEM-uh-nye, JEM-uh-nee",
+      "genitivePronunciation": "JEM-uh-NOR-um",
+      "charts": [
+        {
+          "label": "Gemini",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/GEM.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/GEM.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/gem.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Gru": {
+      "name": "Grus",
+      "abbreviation": "Gru",
+      "englishMeaning": "The Crane",
+      "genitive": "Gruis",
+      "pronunciation": "GRUSS, GROOS",
+      "genitivePronunciation": "GROO-iss",
+      "charts": [
+        {
+          "label": "Grus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/GRU.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/GRU.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/gru.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Her": {
+      "name": "Hercules",
+      "abbreviation": "Her",
+      "englishMeaning": "Hercules",
+      "genitive": "Herculis",
+      "pronunciation": "HER-kyuh-leez",
+      "genitivePronunciation": "HER-kyuh-liss",
+      "charts": [
+        {
+          "label": "Hercules",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/HER.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/HER.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/her.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Hor": {
+      "name": "Horologium",
+      "abbreviation": "Hor",
+      "englishMeaning": "The Pendulum Clock",
+      "genitive": "Horologii",
+      "pronunciation": "hor-uh-LOE-jee-um",
+      "genitivePronunciation": "hor-uh-LOE-jee-eye",
+      "charts": [
+        {
+          "label": "Horologium",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/HOR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/HOR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/hor.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Hya": {
+      "name": "Hydra",
+      "abbreviation": "Hya",
+      "englishMeaning": "The Water Snake",
+      "genitive": "Hydrae",
+      "pronunciation": "HIGH-druh",
+      "genitivePronunciation": "HIGH-dree",
+      "charts": [
+        {
+          "label": "Hydra",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/HYA.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/HYA.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/hya.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Hyi": {
+      "name": "Hydrus",
+      "abbreviation": "Hyi",
+      "englishMeaning": "The Lesser Water Snake",
+      "genitive": "Hydri",
+      "pronunciation": "HIGH-drus",
+      "genitivePronunciation": "HIGH-dry",
+      "charts": [
+        {
+          "label": "Hydrus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/HYI.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/HYI.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/hyi.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Ind": {
+      "name": "Indus",
+      "abbreviation": "Ind",
+      "englishMeaning": "The Indian",
+      "genitive": "Indi",
+      "pronunciation": "IN-dus",
+      "genitivePronunciation": "IN-dye",
+      "charts": [
+        {
+          "label": "Indus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/IND.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/IND.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/ind.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Lac": {
+      "name": "Lacerta",
+      "abbreviation": "Lac",
+      "englishMeaning": "The Lizard",
+      "genitive": "Lacertae",
+      "pronunciation": "luh-SER-tuh",
+      "genitivePronunciation": "luh-SER-tee",
+      "charts": [
+        {
+          "label": "Lacerta",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/LAC.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/LAC.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/lac.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Leo": {
+      "name": "Leo",
+      "abbreviation": "Leo",
+      "englishMeaning": "The Lion",
+      "genitive": "Leonis",
+      "pronunciation": "LEE-oh",
+      "genitivePronunciation": "lee-OH-niss",
+      "charts": [
+        {
+          "label": "Leo",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/LEO.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/LEO.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/leo.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "LMi": {
+      "name": "Leo Minor",
+      "abbreviation": "LMi",
+      "englishMeaning": "The Lesser Lion",
+      "genitive": "Leonis Minoris",
+      "pronunciation": "LEE-oh MY-ner",
+      "genitivePronunciation": "lee-OH-niss mih-NOR-iss",
+      "charts": [
+        {
+          "label": "Leo Minor",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/LMI.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/LMI.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/lmi.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Lep": {
+      "name": "Lepus",
+      "abbreviation": "Lep",
+      "englishMeaning": "The Hare",
+      "genitive": "Leporis",
+      "pronunciation": "LEEP-us, LEP-us",
+      "genitivePronunciation": "LEP-or-iss",
+      "charts": [
+        {
+          "label": "Lepus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/LEP.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/LEP.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/lep.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Lib": {
+      "name": "Libra",
+      "abbreviation": "Lib",
+      "englishMeaning": "The Scales",
+      "genitive": "Librae",
+      "pronunciation": "LEE-bruh, LYE-bruh",
+      "genitivePronunciation": "LEE-bree, LYE-bree",
+      "charts": [
+        {
+          "label": "Libra",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/LIB.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/LIB.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/lib.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Lup": {
+      "name": "Lupus",
+      "abbreviation": "Lup",
+      "englishMeaning": "The Wolf",
+      "genitive": "Lupi",
+      "pronunciation": "LOOP-us",
+      "genitivePronunciation": "LOOP-eye",
+      "charts": [
+        {
+          "label": "Lupus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/LUP.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/LUP.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/lup.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Lyn": {
+      "name": "Lynx",
+      "abbreviation": "Lyn",
+      "englishMeaning": "The Lynx",
+      "genitive": "Lyncis",
+      "pronunciation": "LINKS",
+      "genitivePronunciation": "LIN-siss",
+      "charts": [
+        {
+          "label": "Lynx",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/LYN.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/LYN.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/lyn.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Lyr": {
+      "name": "Lyra",
+      "abbreviation": "Lyr",
+      "englishMeaning": "The Lyre",
+      "genitive": "Lyrae",
+      "pronunciation": "LYE-ruh",
+      "genitivePronunciation": "LYE-ree",
+      "charts": [
+        {
+          "label": "Lyra",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/LYR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/LYR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/lyr.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Men": {
+      "name": "Mensa",
+      "abbreviation": "Men",
+      "englishMeaning": "The Table Mountain",
+      "genitive": "Mensae",
+      "pronunciation": "MEN-suh",
+      "genitivePronunciation": "MEN-see",
+      "charts": [
+        {
+          "label": "Mensa",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/MEN.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/MEN.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/men.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Mic": {
+      "name": "Microscopium",
+      "abbreviation": "Mic",
+      "englishMeaning": "The Microscope",
+      "genitive": "Microscopii",
+      "pronunciation": "my-cruh-SCOPE-ee-um",
+      "genitivePronunciation": "my-cruh-SCOPE-ee-eye",
+      "charts": [
+        {
+          "label": "Microscopium",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/MIC.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/MIC.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/mic.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Mon": {
+      "name": "Monoceros",
+      "abbreviation": "Mon",
+      "englishMeaning": "The Unicorn",
+      "genitive": "Monocerotis",
+      "pronunciation": "muh-NAH-ser-us",
+      "genitivePronunciation": "muh-NAH-ser-OH-tiss",
+      "charts": [
+        {
+          "label": "Monoceros",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/MON.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/MON.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/mon.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Mus": {
+      "name": "Musca",
+      "abbreviation": "Mus",
+      "englishMeaning": "The Fly",
+      "genitive": "Muscae",
+      "pronunciation": "MUSS-cuh",
+      "genitivePronunciation": "MUSS-see, MUSS-kee",
+      "charts": [
+        {
+          "label": "Musca",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/MUS.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/MUS.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/mus.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Nor": {
+      "name": "Norma",
+      "abbreviation": "Nor",
+      "englishMeaning": "The Set Square",
+      "genitive": "Normae",
+      "pronunciation": "NOR-muh",
+      "genitivePronunciation": "NOR-mee",
+      "charts": [
+        {
+          "label": "Norma",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/NOR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/NOR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/nor.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Oct": {
+      "name": "Octans",
+      "abbreviation": "Oct",
+      "englishMeaning": "The Octant",
+      "genitive": "Octantis",
+      "pronunciation": "OCK-tanz",
+      "genitivePronunciation": "ock-TAN-tiss",
+      "charts": [
+        {
+          "label": "Octans",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/OCT.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/OCT.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/oct.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Oph": {
+      "name": "Ophiuchus",
+      "abbreviation": "Oph",
+      "englishMeaning": "The Serpent Bearer",
+      "genitive": "Ophiuchi",
+      "pronunciation": "OFF-ee-YOO-kus, OAF-ee-YOO-kus",
+      "genitivePronunciation": "OFF-ee-YOO-kye, OAF-ee-YOO-kye",
+      "charts": [
+        {
+          "label": "Ophiuchus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/OPH.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/OPH.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/oph.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Ori": {
+      "name": "Orion",
+      "abbreviation": "Ori",
+      "englishMeaning": "The Hunter",
+      "genitive": "Orionis",
+      "pronunciation": "oh-RYE-un, uh-RYE-un",
+      "genitivePronunciation": "or-eye-OH-niss",
+      "charts": [
+        {
+          "label": "Orion",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/ORI.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/ORI.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/ori.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Pav": {
+      "name": "Pavo",
+      "abbreviation": "Pav",
+      "englishMeaning": "The Peacock",
+      "genitive": "Pavonis",
+      "pronunciation": "PAY-vo",
+      "genitivePronunciation": "puh-VOE-niss",
+      "charts": [
+        {
+          "label": "Pavo",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/PAV.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/PAV.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/pav.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Peg": {
+      "name": "Pegasus",
+      "abbreviation": "Peg",
+      "englishMeaning": "The Winged Horse",
+      "genitive": "Pegasi",
+      "pronunciation": "PEG-us-us",
+      "genitivePronunciation": "PEG-us-eye",
+      "charts": [
+        {
+          "label": "Pegasus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/PEG.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/PEG.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/peg.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Per": {
+      "name": "Perseus",
+      "abbreviation": "Per",
+      "englishMeaning": "The Hero",
+      "genitive": "Persei",
+      "pronunciation": "PER-see-us, PER-syoos",
+      "genitivePronunciation": "PER-see-eye",
+      "charts": [
+        {
+          "label": "Perseus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/PER.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/PER.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/per.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Phe": {
+      "name": "Phoenix",
+      "abbreviation": "Phe",
+      "englishMeaning": "The Phoenix",
+      "genitive": "Phoenicis",
+      "pronunciation": "FEE-nix",
+      "genitivePronunciation": "fuh-NICE-iss",
+      "charts": [
+        {
+          "label": "Phoenix",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/PHE.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/PHE.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/phe.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Pic": {
+      "name": "Pictor",
+      "abbreviation": "Pic",
+      "englishMeaning": "The Painter's Easel",
+      "genitive": "Pictoris",
+      "pronunciation": "PICK-ter",
+      "genitivePronunciation": "pick-TOR-iss",
+      "charts": [
+        {
+          "label": "Pictor",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/PIC.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/PIC.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/pic.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Psc": {
+      "name": "Pisces",
+      "abbreviation": "Psc",
+      "englishMeaning": "The Fishes",
+      "genitive": "Piscium",
+      "pronunciation": "PICE-eez, PISS-eez",
+      "genitivePronunciation": "PICE-ee-um, PISH-ee-um",
+      "charts": [
+        {
+          "label": "Pisces",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/PSC.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/PSC.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/psc.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "PsA": {
+      "name": "Piscis Austrinus",
+      "abbreviation": "PsA",
+      "englishMeaning": "The Southern Fish",
+      "genitive": "Piscis Austrini",
+      "pronunciation": "PICE-iss (PISS-iss) aw-STRY-nus",
+      "genitivePronunciation": "PICE-iss (PISS-iss) aw-STRY-nye",
+      "charts": [
+        {
+          "label": "Piscis Austrinus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/PSA.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/PSA.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/psa.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Pup": {
+      "name": "Puppis",
+      "abbreviation": "Pup",
+      "englishMeaning": "The Ship's Stern",
+      "genitive": "Puppis",
+      "pronunciation": "PUP-iss",
+      "genitivePronunciation": "PUP-iss",
+      "charts": [
+        {
+          "label": "Puppis",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/PUP.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/PUP.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/pup.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Pyx": {
+      "name": "Pyxis",
+      "abbreviation": "Pyx",
+      "englishMeaning": "The Mariner's Compass",
+      "genitive": "Pyxidis",
+      "pronunciation": "PIX-iss",
+      "genitivePronunciation": "PIX-ih-diss",
+      "charts": [
+        {
+          "label": "Pyxis",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/PYX.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/PYX.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/pyx.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Ret": {
+      "name": "Reticulum",
+      "abbreviation": "Ret",
+      "englishMeaning": "The Net (an instrument)",
+      "genitive": "Reticuli",
+      "pronunciation": "rih-TICK-yuh-lum",
+      "genitivePronunciation": "rih-TICK-yuh-lye",
+      "charts": [
+        {
+          "label": "Reticulum",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/RET.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/RET.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/ret.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Sge": {
+      "name": "Sagitta",
+      "abbreviation": "Sge",
+      "englishMeaning": "The Arrow",
+      "genitive": "Sagittae",
+      "pronunciation": "suh-JIT-uh",
+      "genitivePronunciation": "suh-JIT-ee",
+      "charts": [
+        {
+          "label": "Sagitta",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/SGE.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/SGE.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/sge.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Sgr": {
+      "name": "Sagittarius",
+      "abbreviation": "Sgr",
+      "englishMeaning": "The Archer",
+      "genitive": "Sagittarii",
+      "pronunciation": "SAJ-ih-TARE-ee-us",
+      "genitivePronunciation": "SAJ-ih-TARE-ee-eye",
+      "charts": [
+        {
+          "label": "Sagittarius",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/SGR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/SGR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/sgr.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Sco": {
+      "name": "Scorpius",
+      "abbreviation": "Sco",
+      "englishMeaning": "The Scorpion",
+      "genitive": "Scorpii",
+      "pronunciation": "SCOR-pee-us",
+      "genitivePronunciation": "SCOR-pee-eye",
+      "charts": [
+        {
+          "label": "Scorpius",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/SCO.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/SCO.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/sco.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Scl": {
+      "name": "Sculptor",
+      "abbreviation": "Scl",
+      "englishMeaning": "The Sculptor",
+      "genitive": "Sculptoris",
+      "pronunciation": "SCULP-ter",
+      "genitivePronunciation": "sculp-TOR-iss",
+      "charts": [
+        {
+          "label": "Sculptor",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/SCL.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/SCL.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/scl.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Sct": {
+      "name": "Scutum",
+      "abbreviation": "Sct",
+      "englishMeaning": "The Shield",
+      "genitive": "Scuti",
+      "pronunciation": "SCOOT-um, SCYOOT-um",
+      "genitivePronunciation": "SCOOT-eye, SCYOOT-eye",
+      "charts": [
+        {
+          "label": "Scutum",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/SCT.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/SCT.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/sct.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Ser": {
+      "name": "Serpens",
+      "abbreviation": "Ser",
+      "englishMeaning": "The Serpent",
+      "genitive": "Serpentis",
+      "pronunciation": "SER-punz",
+      "genitivePronunciation": "ser-PEN-tiss",
+      "charts": [
+        {
+          "label": "Serpens Caput (head)",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/SERCP.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/SERCP.gif"
+        },
+        {
+          "label": "Serpens Cauda (tail)",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/SERCD.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/SERCD.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/ser1.txt",
+        "https://iauarchive.eso.org/static/public/constellations/txt/ser2.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Sex": {
+      "name": "Sextans",
+      "abbreviation": "Sex",
+      "englishMeaning": "The Sextant",
+      "genitive": "Sextantis",
+      "pronunciation": "SEX-tunz",
+      "genitivePronunciation": "sex-TAN-tiss",
+      "charts": [
+        {
+          "label": "Sextans",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/SEX.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/SEX.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/sex.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Tau": {
+      "name": "Taurus",
+      "abbreviation": "Tau",
+      "englishMeaning": "The Bull",
+      "genitive": "Tauri",
+      "pronunciation": "TOR-us",
+      "genitivePronunciation": "TOR-eye",
+      "charts": [
+        {
+          "label": "Taurus",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/TAU.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/TAU.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/tau.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Tel": {
+      "name": "Telescopium",
+      "abbreviation": "Tel",
+      "englishMeaning": "The Telescope",
+      "genitive": "Telescopii",
+      "pronunciation": "tel-ih-SCOPE-ee-um",
+      "genitivePronunciation": "tel-ih-SCOPE-ee-eye",
+      "charts": [
+        {
+          "label": "Telescopium",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/TEL.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/TEL.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/tel.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Tri": {
+      "name": "Triangulum",
+      "abbreviation": "Tri",
+      "englishMeaning": "The Triangle",
+      "genitive": "Trianguli",
+      "pronunciation": "try-ANG-gyuh-lum",
+      "genitivePronunciation": "try-ANG-gyuh-lye",
+      "charts": [
+        {
+          "label": "Triangulum",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/TRI.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/TRI.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/tri.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "TrA": {
+      "name": "Triangulum Australe",
+      "abbreviation": "TrA",
+      "englishMeaning": "The Southern Triangle",
+      "genitive": "Trianguli Australis",
+      "pronunciation": "try-ANG-gyuh-lum aw-STRAL-ee",
+      "genitivePronunciation": "try-ANG-gyuh-lye aw-STRAL-iss",
+      "charts": [
+        {
+          "label": "Triangulum Australe",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/TRA.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/TRA.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/tra.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Tuc": {
+      "name": "Tucana",
+      "abbreviation": "Tuc",
+      "englishMeaning": "The Toucan",
+      "genitive": "Tucanae",
+      "pronunciation": "too-KAY-nuh, too-KAH-nuh",
+      "genitivePronunciation": "too-KAY-nee, too-KAH-nee",
+      "charts": [
+        {
+          "label": "Tucana",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/TUC.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/TUC.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/tuc.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "UMa": {
+      "name": "Ursa Major",
+      "abbreviation": "UMa",
+      "englishMeaning": "The Great Bear",
+      "genitive": "Ursae Majoris",
+      "pronunciation": "ER-suh MAY-jur",
+      "genitivePronunciation": "ER-suh muh-JOR-iss",
+      "charts": [
+        {
+          "label": "Ursa Major",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/UMA.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/UMA.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/uma.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "UMi": {
+      "name": "Ursa Minor",
+      "abbreviation": "UMi",
+      "englishMeaning": "The Little Bear",
+      "genitive": "Ursae Minoris",
+      "pronunciation": "ER-suh MY-ner",
+      "genitivePronunciation": "ER-suh mih-NOR-iss",
+      "charts": [
+        {
+          "label": "Ursa Minor",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/UMI.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/UMI.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/umi.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Vel": {
+      "name": "Vela",
+      "abbreviation": "Vel",
+      "englishMeaning": "The Ship's Sails",
+      "genitive": "Velorum",
+      "pronunciation": "VEE-luh, VAY-luh",
+      "genitivePronunciation": "vee-LOR-um, vuh-LOR-um",
+      "charts": [
+        {
+          "label": "Vela",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/VEL.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/VEL.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/vel.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Vir": {
+      "name": "Virgo",
+      "abbreviation": "Vir",
+      "englishMeaning": "The Maiden",
+      "genitive": "Virginis",
+      "pronunciation": "VER-go",
+      "genitivePronunciation": "VER-jin-iss",
+      "charts": [
+        {
+          "label": "Virgo",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/VIR.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/VIR.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/vir.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Vol": {
+      "name": "Volans",
+      "abbreviation": "Vol",
+      "englishMeaning": "The Flying Fish",
+      "genitive": "Volantis",
+      "pronunciation": "VOH-lanz",
+      "genitivePronunciation": "vo-LAN-tiss",
+      "charts": [
+        {
+          "label": "Volans",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/VOL.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/VOL.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/vol.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    },
+    "Vul": {
+      "name": "Vulpecula",
+      "abbreviation": "Vul",
+      "englishMeaning": "The Fox",
+      "genitive": "Vulpeculae",
+      "pronunciation": "vul-PECK-yuh-luh",
+      "genitivePronunciation": "vul-PECK-yuh-lee",
+      "charts": [
+        {
+          "label": "Vulpecula",
+          "pdfUrl": "https://iauarchive.eso.org/static/public/constellations/pdf/VUL.pdf",
+          "gifUrl": "https://iauarchive.eso.org/static/public/constellations/gif/VUL.gif"
+        }
+      ],
+      "boundaryUrls": [
+        "https://iauarchive.eso.org/static/public/constellations/txt/vul.txt"
+      ],
+      "sourceUrl": "https://www.iau.org/IAU/Astronomy-FAQs/Constellations.aspx"
+    }
+  }
+}

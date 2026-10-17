@@ -1,0 +1,26 @@
+{
+  "name": "The Star Dial — Seasonal Constellations",
+  "short_name": "Star Dial",
+  "id": "./",
+  "description": "An interactive planisphere showing which constellations are visible each month.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101b25",
+  "theme_color": "#101b25",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
